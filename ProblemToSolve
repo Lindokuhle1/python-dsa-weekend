@@ -8,35 +8,35 @@ Imagine you receive battery telemetry readings as a list of numbers (voltages).
 
 Implement a Python script that:
 
-Finds the maximum voltage.
+    Finds the maximum voltage.
 
-Finds the minimum voltage.
+    Finds the minimum voltage.
 
-Computes the average voltage.
+    Computes the average voltage.
 
-Prints all voltages above the average.
+    Prints all voltages above the average.
 
 Task 2 – Reverse and Palindrome Checker
 
-Take a string input representing a battery ID, e.g., "BAT123".
+    Take a string input representing a battery ID, e.g., "BAT123".
 
-Write a function to reverse the string.
+    Write a function to reverse the string.
 
-Check if the string is a palindrome (ignore case).
+    Check if the string is a palindrome (ignore case).
 
 Task 3 – Mini Stack with List
 
 Implement a simple Stack class using Python’s list:
 
-push(item)
+    push(item)
 
-pop()
+    pop()
 
-peek()
+    peek()
 
-is_empty()
+    is_empty()
 
-Test it with some telemetry events like ["charge", "discharge", "fault"].
+    Test it with some telemetry events like ["charge", "discharge", "fault"].
 
 Deliverable for GitHub:
 
