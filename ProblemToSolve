@@ -1,0 +1,47 @@
+Python Data Structures & Algorithms
+
+Focus: Lists, Strings, Functions, and a bit of recursion.
+
+Task 1 – Simple Telemetry Processor
+
+Imagine you receive battery telemetry readings as a list of numbers (voltages).
+
+Implement a Python script that:
+
+Finds the maximum voltage.
+
+Finds the minimum voltage.
+
+Computes the average voltage.
+
+Prints all voltages above the average.
+
+Task 2 – Reverse and Palindrome Checker
+
+Take a string input representing a battery ID, e.g., "BAT123".
+
+Write a function to reverse the string.
+
+Check if the string is a palindrome (ignore case).
+
+Task 3 – Mini Stack with List
+
+Implement a simple Stack class using Python’s list:
+
+push(item)
+
+pop()
+
+peek()
+
+is_empty()
+
+Test it with some telemetry events like ["charge", "discharge", "fault"].
+
+Deliverable for GitHub:
+
+Create a repo: python-dsa-weekend
+
+Use a single file weekend_tasks.py or split by topic
+
+Include a README.md explaining each task and how to run it
